@@ -4,17 +4,17 @@
  
 ## installation
 1.Clone the repo:
--git clone https://github.com/EBBAHGOD/To-do.git
-2.Navigate to the project directory
+-git clone https://github.com/EBBAHGOD/To-do.git.
+2.Navigate to the project directory.
 3.Set up a virtual environment:
--python -m venv .venv
+-python -m venv .venv.
 4.Install dependencies:
--pip install -r requirement.txt
+-pip install -r requirement.txt.
 5.Set up the database :
                         1.python manage.py makemigrations
-                        2.python manage.py migrate
+                        2.python manage.py migrate.
 6.Run the development server:
--python manage.py runserver
+-python manage.py runserver.
 
 ## Usage
 
