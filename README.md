@@ -29,4 +29,4 @@
 If you have any questions or feedback, feel free to reach out to me:
 
 - Email: [samuelebbahboadi78@gmail.com](mailto:samuelebbahbboadi78@gmail.com)
-- GitHub: [EBHGOD](https://github.com/EBHGOD)
+- GitHub: [EBBAHGOD](https://github.com/EBBAHGOD)
